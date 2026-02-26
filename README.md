@@ -71,11 +71,14 @@ This project analyzes customer churn behavior for a telecom company to identify 
 
 Customer-Churn-Analysis/
 - dataset/
-- churn_analysis.ipynb
-- sql_queries.sql
-- powerbi_dashboard.pbix
-- Business_Report.pdf
-- README.md
+- customer_churn.ipynb
+- cleaned_churn.csv
+- customer_churn_analysis(sql quiries).sql
+- churn_analysis_dashboard(PowerBI).pbix
+- Business Probelm - customer churn & retention.pdf
+- customer project overview.pdf
+- customer-churn & retention.pdf
+- matplotlib & seaborn visulas(#Just tried)
 
 🚀 Outcome :
         This project demonstrates end-to-end data analysis workflow including data cleaning, SQL-based KPI analysis, dashboard visualization, and business reporting.
