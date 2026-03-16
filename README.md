@@ -53,6 +53,10 @@ This project analyzes customer churn behavior for a telecom company to identify 
 - Churn by Tenure
 - Risk Segment Analysis
 
+  ## Dashboard Preview:
+  
+<img src="BI-Dashboard.png" width="900">
+
 📈 Key Insights :
 
 - Month-to-month contract customers have the highest churn rate.
